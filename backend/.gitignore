@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 环境变量文件
+.env
+
+# VSCode
+.vscode/
+
+# Node
+node_modules/
+
+# 其他常见忽略
+*.log
+*.sqlite3
+*.db
+*.bak
+*.swp
+.DS_Store
