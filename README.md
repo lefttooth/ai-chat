@@ -11,6 +11,7 @@ AI/
 ├── database/          # 数据库相关文件
 └── README.md
 ```
+![实现原理图](img/ai-chat.png)
 
 ## 技术栈
 
